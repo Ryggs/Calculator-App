@@ -1,5 +1,5 @@
 # MA-CO Calculator
-Basic Android Scientific Calculator
+Basic Android Scientific Calculator, built in 30mins while on a plane.
 
 ## Getting Started
 
